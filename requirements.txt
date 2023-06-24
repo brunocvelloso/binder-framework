@@ -1,6 +1,5 @@
 matplotlib==3.5.0
 numpy==1.19.5
-pandas
-matplotlib.pyplot
+pandas==1.5.3
 os
 warnings
